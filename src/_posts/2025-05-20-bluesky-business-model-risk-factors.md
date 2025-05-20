@@ -21,8 +21,6 @@ To calibrate, let's get some of the strawmen that people seem to keep throwing u
 
 - I'm not suggesting that I think that the Bluesky team operates from bad will or has hidden intentions -- I accept at face value and my experience tells me from what I've seen that this team very much wants to have atproto outlast them.
 
-- I'm not trying to suggest that I have any meaningful leverage in announcing that I'm leaving Bluesky, nor am I trying to suggest that such a move would be permanent.
-
 - I'm not trying to advocate for *full decentralization* in the way that Mastodon/ActivityPub adherants have done, nor am I trying to suggest that I believe Mastodon has a sustainable business model that scales to world scale.
 
 - I'm not trying to say that ad revenue is inherently a bad idea for Bluesky as a company -- it is only that they currently occupy the role as the sole network operator for a ubiquitous global communication network. If there was enough viable microblogging going on atop atproto that you could pull Bluesky out of the ecosystem and still have the remaining providers retain comparable levels of network effects, then it doesn't matter what Bluesky's position on ad revenue is.
@@ -79,7 +77,7 @@ Look at other platforms and see if you see signs that they've ever had a differe
 
 - I've said it many times but I do believe subscriptions are a good starting point. I don't think they work as a standalone revenue stream, especially not at first, and it'd be important to not gate core features behind a paywall. But for someone like me who up until this point was going "all in" on Bluesky as a way for people to discover my own works, I'd pay $50-$100/month gladly if it would meaningfully even defer the introduction of ad revenue as a stream, or at least serve as a counterweight against it enough to cover a significant portion of opex across all subscriptions.
 
-- If you can somehow seed a generic payment mechanism into Bluesky, I'd gladly pay a cut of a "Buy Now" button for my own stuff to Bluesky and use it if others I followed were using it. Essentially weaving in something like Gumroad / Venmo would be incredibly powerful *but only if it was sufficiently heterogeneous to avoid paid placement taking the lionshare*
+- If you can somehow seed a generic payment mechanism into Bluesky, I'd gladly pay a cut of a "Buy Now" button for my own stuff to Bluesky and use it if others I followed were using it. Essentially weaving in something like Gumroad / Venmo would be incredibly powerful *but only if it was sufficiently heterogeneous to avoid paid placement taking the lionshare.*
 
 - If you make public commitments that are verifiable to metered growths and caps, that'd go a long way too. For example, things that get more expensive the bigger they get to discourage rapid growth hacking as a defacto model / giant buys from giant companies would go a long way. Or straight up caps that let people earn only up to a certain point that'd guarantee that no one actor can exert too much influence over the overall revenue stream, then you'd be doing something that at least would be more of a "two way door" than a "one way door" in that those values could be tuned to ensure that the overall system stays healthy enough, long enough, to get atproto to a stable point of real operation independence.
 
