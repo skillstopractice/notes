@@ -7,7 +7,7 @@ categories: updates
 
 This is a working document + open letter meant primarily to discuss with *Why* from the Bluesky team, but I'm publishing it in the open to make sure anyone who is participating in the broader conversations can see what exactly I am and am not trying to say.
 
-If you're in a hurry or don't want or need the background, scroll down to **"Specific Points of Concern"** and you should be able to get right to the heart of my argument.
+If you're in a hurry or don't want or need background info, scroll down to **"Specific Points of Concern"** and you should be able to get right to the heart of my argument.
 
 I may edit it as I'm having conversations and will mark sections that have been revised + extended when I do.
 
@@ -15,7 +15,7 @@ I may edit it as I'm having conversations and will mark sections that have been 
 
 To calibrate, let's get some of the strawmen that people seem to keep throwing up out of the way. (Why and I have already discussed all these over DM so this is more for others who might be reading)
 
-- I'm not trying to suggest Bluesky run without revenue. Quite the opposite in fact... I think the team is much later to the game than they ought to be on that. It's actually existential that they find a business model, and fast, not just in theory but rolled out and bringing money in the door.
+- I'm not trying to suggest Bluesky run without revenue. Quite the opposite in fact... I think the team is much later to the game than they ought to be on that, and critically undercapitalized. It's actually existential that they find a business model, and fast, not just in theory but rolled out and bringing money in the door.
 
 - I'm not trying to suggest that ad revenue is *inherently* wrong, for many types of businesses. I'm not even trying to suggest that it's wrong in many cases for third party builders + authors on Bluesky. Many valid cases for running ads and sponsorships in various forms, and the UX doesn't need to be bad or unwelcome to the audience.
 
