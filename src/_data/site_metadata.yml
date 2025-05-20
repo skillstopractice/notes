@@ -4,8 +4,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.metadata.myvariable }}.
 
-title: Your awesome title
-tagline: This site is totally awesome
+title: "S2P :: Notes"
+tagline: Notes from Gregory Brown
 email: gregory@skillstopractice.com
 description: >-
   Notes from Gregory Brown
