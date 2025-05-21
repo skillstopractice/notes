@@ -99,6 +99,6 @@ Hope this helps and happy to talk more.
 
 While I truly did believe that Bluesky was avoiding ads intentionally and thought the most recent post from a few days ago was the first time they changed their position, I did some digging and saw that even back in December 2024, their CEO was suggesting that was not the case. -- [Bluesky CEO says advertising isn’t off the table](https://www.emarketer.com/content/bluesky-ceo-says-advertising-isnt-off-table)
 
-I also made assumptions about their funding based on the publicly reported seed and Series A round, and totally missed that there was another funding round in the works that doesn't seem to have any public details about it other than a $700 million valuation.
+I also made assumptions about their funding based on the publicly reported seed and Series A round, and totally missed that there was another funding round in the works in January that doesn't seem to have any public details about it other than a [$700 million valuation](https://www.emarketer.com/content/bluesky-seeks-700m-funding-round-and-identity).
 
 I don't know what to make of all of this, and suppose only time will tell as to how things shape up. More transparency about the funding situation and the specifics of a business model would go a long way towards restoring trust or at least allowing people to make informed choices.
