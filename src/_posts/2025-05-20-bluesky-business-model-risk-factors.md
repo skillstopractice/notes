@@ -15,7 +15,7 @@ I may edit it as I'm having conversations and will mark sections that have been 
 
 To calibrate, let's get some of the strawmen that people seem to keep throwing up out of the way. (Why and I have already discussed all these over DM so this is more for others who might be reading)
 
-- I'm not trying to suggest Bluesky run without revenue. Quite the opposite in fact... I think the team is much later to the game than they ought to be on that, and critically undercapitalized. It's actually existential that they find a business model, and fast, not just in theory but rolled out and bringing money in the door.
+- I'm not trying to suggest Bluesky run without revenue. Quite the opposite in fact... I think the team is much later to the game than they ought to be on that, and <strike>critically undercapitalized</strike>(see May 21 note at bottom of page). It's actually existential that they find a business model, and fast, not just in theory but rolled out and bringing money in the door.
 
 - I'm not trying to suggest that ad revenue is *inherently* wrong, for many types of businesses. I'm not even trying to suggest that it's wrong in many cases for third party builders + authors on Bluesky. Many valid cases for running ads and sponsorships in various forms, and the UX doesn't need to be bad or unwelcome to the audience.
 
@@ -85,7 +85,7 @@ Look at other platforms and see if you see signs that they've ever had a differe
 
 - If you stood up enough other forms of revenue inflows that *aren't* oriented around content placement / discovery but instead around utility + convenience, and those worked well enough that any ad revenue contributed only to profit and not to opex, you'd have a lower risk profile. For example, I had heard of things like partnerships for people to be able to set up a custom domain + self verify where Bluesky would recommend a preferred DNS provider in exchange for a referal fee. This to me seems fine because it's just a value add and doesn't meaningfully get in the way of an average customer's experience or lock anyone else out.
 
-To sum up... I want you all to succeed. But you don't need to be evil to miss out on the potential for emergent network effects to create the "rich get richer" phenomena. And if you really want a world without Ceasers, then you need to devise a system that is the digital equivalent of building farmer's markets and main streets.
+To sum up... I want you all to succeed. But you don't need to be evil to miss out on the potential for emergent network effects to create the "rich get richer" phenomena. And if you really want a world without Caesars, then you need to devise a system that is the digital equivalent of building farmer's markets and main streets.
 
 Tilt the incentives in that direction for long enough, and you'll achieve the goal you set out for with atproto, and then it doesn't really matter what happens to Bluesky after that.
 
