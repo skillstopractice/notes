@@ -92,3 +92,13 @@ Tilt the incentives in that direction for long enough, and you'll achieve the go
 Hope this helps and happy to talk more.
 
 **PS: Will revisit my intent to depart Bluesky if/when official comms clarifying the business model are put out. Not a big deal if that doesn't happen and clearly I am just a small drop of water in an ocean size bucket, but want to express a willingness to trust again if I feel I can back this org on principle, which I felt I could do very strongly until the other day.**
+
+---
+
+**Update (May 21)**
+
+While I truly did believe that Bluesky was avoiding ads intentionally and thought the most recent post from a few days ago was the first time they changed their position, I did some digging and saw that even back in December 2024, their CEO was suggesting that was not the case. -- [Bluesky CEO says advertising isn’t off the table](https://www.emarketer.com/content/bluesky-ceo-says-advertising-isnt-off-table)
+
+I also made assumptions about their funding based on the publicly reported seed and Series A round, and totally missed that there was another funding round in the works that doesn't seem to have any public details about it other than a $700 million valuation.
+
+I don't know what to make of all of this, and suppose only time will tell as to how things shape up. More transparency about the funding situation and the specifics of a business model would go a long way towards restoring trust or at least allowing people to make informed choices.
