@@ -37,6 +37,8 @@ Here's the ones I've found so far, please feel free to email [gregory@skillstopr
 
 [t27duck.com](https://t27duck.com/posts.xml)
 
+[The Art and Science of Ruby](https://theartandscienceofruby.com/rss/)
+
 (Note: I've not looked over most of these closely yet but it's a starting point at least!)
 
 ---
