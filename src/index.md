@@ -1,12 +1,16 @@
 ---
 # Feel free to add content and custom Front Matter to this file.
 
-layout: default
+layout: page
+title: Posts
 ---
 
-# S2P :: Notes
+<ul>
+  {% for post in collections.posts.resources %}
+    <li>
+      <a href="{{ post.relative_url }}">{{ post.data.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
 
-
-Eventually there will be an index here.
-
-This is a place for Gregory Brown to post and share notes.
+If you have a lot of posts, you may want to consider adding [pagination](https://www.bridgetownrb.com/docs/content/pagination)!
