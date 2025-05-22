@@ -41,4 +41,4 @@ Here's the ones I've found so far, please feel free to email [gregory@skillstopr
 
 ---
 
-As for my own posts, I've not yet got a Ruby-specific blog set up but my [general purpose notes feed is here](notes.skillstopractice.com/feed.xml).
+As for my own posts, I've not yet got a Ruby-specific blog set up but my [general purpose notes feed is here](https://notes.skillstopractice.com/feed.xml).
