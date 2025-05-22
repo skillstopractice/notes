@@ -2,7 +2,7 @@
 # Feel free to add content and custom Front Matter to this file.
 
 layout: page
-title: Posts
+title: S2P::Notes
 ---
 
 {% for post in collections.posts.resources %}
