@@ -43,4 +43,4 @@ Here's the ones I've found so far, please feel free to email [gregory@skillstopr
 
 As for my own posts, I've not yet got a Ruby-specific blog set up but my [general purpose notes feed is here](https://notes.skillstopractice.com/feed.xml).
 
-PS: If you're like me and have not even thought about using RSS for a *very* long time, and don't know where to start as far as readers go, [Inoreader](https://www.inoreader.com) is pretty great and does everything I'd want and then some.
+*PS: If you're like me and have not even thought about using RSS for a *very* long time, and don't know where to start as far as readers go, [Inoreader](https://www.inoreader.com) is pretty great and does everything I'd want and then some.*
