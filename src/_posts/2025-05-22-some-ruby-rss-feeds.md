@@ -7,7 +7,7 @@ categories: updates
 
 I will eventually find a more permanent home for these, but I'm collecting RSS feeds from folks who post about Ruby at least occasionally, in the hopes that I can share more good stuff via [Ruby + Rails : Distilled](https://ruby.social/@distilled).
 
-Here's the ones I've found so far, please feel free to email **gregory@skillstopractice.com** or reply to the Distilled account on Mastodon and I'll add yours if it looks like a fit.
+Here's the ones I've found so far, please feel free to email [gregory@skillstopractice.com](mailto:gregory@skillstopratice.com) or reply to the Distilled account on Mastodon and I'll add yours if it looks like a fit.
 
 [Nithin Bekal](https://nithinbekal.com/feed.xml)
 
